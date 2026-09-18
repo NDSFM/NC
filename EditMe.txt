@@ -1,0 +1,3 @@
+Name: Nurdos
+Surname: Saparaliev
+ID: 260167
